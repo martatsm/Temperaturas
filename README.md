@@ -1,1 +1,3 @@
 # Temperaturas
+
+Gorka Dominguez Aguirre
